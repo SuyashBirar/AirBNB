@@ -121,13 +121,7 @@ All user inputs (sign-up, login, listings, reviews) are validated using **Joi** 
 
 ---
 
-## 🛠️ Author & Credits
 
-Built with ❤️ by **Gaurav Pawar**
-
-🔗 [Portfolio](https://gauravpawar.netlify.app)
-
----
 
 ## 📌 Notes
 
